@@ -2,6 +2,8 @@
 
 An end-to-end Python analysis of ~96,000 real orders from Olist, a Brazilian e-commerce marketplace, investigating how delivery performance affects customer reviews and repeat purchases.
 
+**Analysis by [Srijai Nimmagadda](https://www.linkedin.com/in/srijai-nimmagadda)** ·
+
 ## Key Results
 - Late deliveries are **6.7% of orders** but cause **32.5% of all negative reviews**
 - Late orders average **2.27 stars vs 4.29** for on-time orders, and are **6.7× more likely** to receive a 1–2 star review
@@ -16,9 +18,11 @@ An end-to-end Python analysis of ~96,000 real orders from Olist, a Brazilian e-c
 4. Does a customer's first-order experience affect whether they come back?
 
 ## Dataset
-[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle): 99,441 orders from 2016–2018 across 9 relational tables (orders, customers, items, payments, reviews, products, sellers, geolocation, category translation).
+## Dataset
+[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle): 99,441 orders from 2016–2018 across 9 relational tables.
 
-> The raw data is not included in this repository. Download it from Kaggle and place the CSV files in `data/raw/`.
+The raw CSV files are included in `data/raw/` so the project runs straight after cloning, and the cleaned tables are in `data/processed/`.
+Data © Olist, shared under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licence; credit for the data belongs to Olist.
 
 ## Tools
 Python · Pandas · NumPy · Matplotlib · Seaborn · SciPy · Jupyter

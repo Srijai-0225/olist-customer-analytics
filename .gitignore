@@ -1,3 +1,2 @@
-   .venv/
-   data/raw/
-   data/processed/
+.venv/
+data/
