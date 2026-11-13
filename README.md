@@ -71,6 +71,9 @@ MA (17.4%), CE (13.8%) and BA (12.2%) have the highest late rates and the longes
 
 Average month-1 retention is just 0.47%. *Note: these results show association, not causation.*
 
+
+**Summary:** Late deliveries are just 6.7% of orders but cause 32.5% of negative reviews, and customers whose first order is late are 25% less likely to return. With only 3% of customers buying twice, fixing first-order delivery is one of Olist's clearest retention levers.
+
 ## Recommendations
 1. Prioritise logistics improvements for North-East states and RJ, where late rates are 2–4× higher than SP.
 2. Treat on-time delivery of the first order as a retention priority; follow up on late first orders with an apology and a discount.
